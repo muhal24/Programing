@@ -1,0 +1,11 @@
+<resources>
+    <string name="java">Java</string>
+    <string name="javascript">Javascript</string>
+    <string name="css">Css</string>
+    <string name="html">Html</string>
+    <string name="react">React</string>
+    <string name="python">Python</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="cpp">C++</string>
+    <string name="swift">Swift</string>
+</resources>
